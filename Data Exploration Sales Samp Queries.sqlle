@@ -1,6 +1,6 @@
 USE [Sales Sample Data];
 
--- Get an idea about the Data
+-- To get an idea about the Data
 SELECT TOP(10)
 	*
 FROM Sales;
