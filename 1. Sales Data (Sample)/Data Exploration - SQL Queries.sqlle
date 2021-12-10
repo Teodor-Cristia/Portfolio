@@ -1,24 +1,54 @@
 USE [Sales Sample Data];
 
--- To get an idea about the Data
+-- Take a look 
 SELECT TOP(10)
 	*
 FROM Sales;
 
 
--- Check total orders
-SELECT COUNT(*) AS 'Total Orders'
+-- Total Number of Orders 
+SELECT
+	COUNT(DISTINCT ordernumber) AS 'Number of Orders'
 FROM Sales;
 
 
-SELECT COUNT(DISTINCT ordernumber) AS 'Total Distinct OrderNumber'
+-- Cleaning the orderdate column. We have here a nvarchar type for this column, let's change it to an appropriate date form.
+SELECT
+	orderdate,
+	CAST(orderdate AS date) AS DateOrder
 FROM Sales;
 
-SELECT 
+-- Applying the changes to the orderdate
+UPDATE Sales
+SET orderdate = CONVERT(date, orderdate);
+
+
+SELECT
+	orderdate,
+	--CONCAT( YEAR(orderdate), ' ', DATENAME(month, orderdate) ) AS YM,
+	FORMAT(CONVERT(date, orderdate), 'yyyy-MMM') AS YM
+FROM Sales;
+
+
+SELECT DISTINCT
 	ordernumber,
-	Count(*)
+	FORMAT(CONVERT(date, orderdate), 'yyyy-MMM') AS YM
 FROM Sales
-GROUP BY ordernumber;
+WHERE ordernumber IN (10107, 10121)
+ORDER BY 1;
+
+
+-- We got here the number of orders by year and month, sorted ascending by date.
+SELECT
+	FORMAT(CONVERT(date, YearMonth + '-01'), 'yyyy-MMM') AS 'Year & Month name',
+	COUNT(*) AS 'Number of Orders'
+FROM (
+	SELECT DISTINCT
+		ordernumber,
+		FORMAT(CONVERT(date, orderdate), 'yyyy-MM') AS YearMonth
+	FROM Sales) AS x
+GROUP BY YearMonth
+ORDER BY YearMonth;
 
 
 
