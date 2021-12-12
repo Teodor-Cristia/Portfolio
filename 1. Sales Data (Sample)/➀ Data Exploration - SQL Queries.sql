@@ -51,33 +51,7 @@ GROUP BY YearMonth
 ORDER BY YearMonth;
 
 
-
-SELECT
-	productline,
-	sales,
-	status,
-	city,
-	country
-FROM Sales
-WHERE country = 'Austria'
-ORDER BY country;
-
-
-SELECT 
-SUM(sales)
-FROM Sales
-WHERE DealSize = 'Small';
-
-SELECT 
- DISTINCT dealsize
-FROM Sales;
-
-SELECT *
-FROM sales
-WHERE ordernumber = 10150;
-
-
--- DealSize and Products by Quantity and Sales, sorted by DealSize in descending order from Large to Small.
+-- DealSize and Products by Quantity and Sales, sorted by DealSize in descending order from Large to Small.  ???!!! i dont see the reason to do this query
 SELECT
 	DealSize,
 	ProductLine,
@@ -92,11 +66,7 @@ ORDER BY CASE
 		 Quantity DESC;
 
 
-SELECT *
-FROM Sales;
-
-
--- ordernumber and productline by Sales. I'm interested to see the salary where i have 4 products per each ordernumber.
+-- ordernumber and productline by Sales. I'm interested to see the salary where i have 4 products (different products) per each ordernumber.
 -- Show the 1st and 3rd salary (sorted from largger to smaller), ordernumber and product name for each unique ordernumber.
 SELECT
 	ordernumber,
@@ -120,27 +90,3 @@ FROM (
 	) AS y
 WHERE count_products = 4 AND row_no IN (1, 3)
 ORDER BY ordernumber;
-
-
-
--- What is the mean sales for each dealsize
-SELECT
-	ordernumber,
-	COUNT(*)
-FROM Sales
-GROUP BY ordernumber;
-
-
-
-SELECT
-	dealsize,
-	AVG(priceeach) AS 'Mean Price'
-FROM Sales
-GROUP BY dealsize;
-
-
-SELECT
-	dealsize,
-	priceeach,
-	priceeach - AVG(priceeach) OVER(PARTITION BY dealsize) as 'more than the average'
-FROM Sales;
