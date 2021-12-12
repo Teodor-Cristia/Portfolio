@@ -3,7 +3,7 @@ USE [Sales Sample Data];
 -- Take a look 
 SELECT TOP(10)
 	*
-FROM Sales;	--FROM [Sales Sample Data]..Sales
+FROM Sales;
 
 
 -- Total Number of Orders 
@@ -28,14 +28,6 @@ SELECT
 	--CONCAT( YEAR(orderdate), ' ', DATENAME(month, orderdate) ) AS YM,
 	FORMAT(CONVERT(date, orderdate), 'yyyy-MMM') AS YM
 FROM Sales;
-
-
-SELECT DISTINCT
-	ordernumber,
-	FORMAT(CONVERT(date, orderdate), 'yyyy-MMM') AS YM
-FROM Sales
-WHERE ordernumber IN (10107, 10121)
-ORDER BY 1;
 
 
 -- We got here the number of orders by year and month, sorted ascending by date.
