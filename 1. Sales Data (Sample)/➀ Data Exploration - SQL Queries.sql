@@ -1,6 +1,5 @@
 USE [Sales Sample Data];
 
--- Take a look 
 SELECT TOP(10)
 	*
 FROM Sales;
@@ -9,24 +8,6 @@ FROM Sales;
 -- Total Number of Orders 
 SELECT
 	COUNT(DISTINCT ordernumber) AS 'Number of Orders'
-FROM Sales;
-
-
--- Cleaning the orderdate column. We have here a nvarchar type for this column, let's change it to an appropriate date form.
-SELECT
-	orderdate,
-	CAST(orderdate AS date) AS DateOrder
-FROM Sales;
-
--- Applying the changes to the orderdate
-UPDATE Sales
-SET orderdate = CONVERT(date, orderdate);
-
-
-SELECT
-	orderdate,
-	--CONCAT( YEAR(orderdate), ' ', DATENAME(month, orderdate) ) AS YM,
-	FORMAT(CONVERT(date, orderdate), 'yyyy-MMM') AS YM
 FROM Sales;
 
 
@@ -41,21 +22,6 @@ FROM (
 	FROM Sales) AS x
 GROUP BY YearMonth
 ORDER BY YearMonth;
-
-
--- DealSize and Products by Quantity and Sales, sorted by DealSize in descending order from Large to Small.  ???!!! i dont see the reason to do this query
-SELECT
-	DealSize,
-	ProductLine,
-	SUM(quantityordered) AS Quantity,
-	SUM(sales) AS Sales
-FROM Sales
-GROUP BY DealSize, productline
-ORDER BY CASE 
-			WHEN dealsize = 'Small' THEN 1
-			WHEN dealsize = 'Medium' THEN 2
-			WHEN dealsize = 'Large' THEN 3 END DESC,
-		 Quantity DESC;
 
 
 -- ordernumber and productline by Sales. I'm interested to see the salary where i have 4 products (different products) per each ordernumber.
@@ -82,3 +48,59 @@ FROM (
 	) AS y
 WHERE count_products = 4 AND row_no IN (1, 3)
 ORDER BY ordernumber;
+
+
+-- Checking the Data. Comparing the SQL results with the Power BI dashboard / report 
+-- Sales by country
+SELECT
+	Country,
+	FORMAT(SUM(sales), 'N2') AS 'Total Sales'
+FROM Sales
+GROUP BY Country
+ORDER BY SUM(sales) DESC;							--I used the aggregate function 'SUM(sales)' to sort the results because the output of the 'Total Sales' column is a nvarchar / string format
+
+
+-- Sales by product
+SELECT
+	Product,
+	'$' + FORMAT([Total Sales], 'N2') AS 'Total Sales'
+FROM (
+	SELECT
+		productline AS Product,
+		SUM(Sales) AS 'Total Sales'
+	FROM Sales
+	GROUP BY productline
+	) AS product_grouping
+ORDER BY product_grouping.[Total Sales] DESC;
+
+
+-- sort by status in a specific order
+SELECT
+	productline as Product,
+	Status,
+	SUM(sales) AS 'Total Sales'
+FROM Sales
+GROUP BY productline, status
+ORDER BY Product,
+		 CASE
+			WHEN status LIKE '%proces%' THEN 1
+			WHEN status LIKE '%Hold' THEN 2
+			WHEN status = 'Shipped' THEN 3
+			WHEN status = 'Disputed' THEN 4
+			WHEN status = 'Resolved' THEN 5
+			WHEN status = 'Cancelled' THEN 6
+		 END;
+
+
+-- save a query with procedure
+DROP PROCEDURE IF EXISTS sales_over_time;
+CREATE PROCEDURE sales_over_time
+AS
+	SELECT
+		YEAR(orderdate) AS YearOrder,
+		DATENAME(month, orderdate) AS MonthOrder,
+		Sales
+	FROM Sales
+GO;
+
+EXEC sales_over_time;
