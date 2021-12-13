@@ -7,3 +7,4 @@ FROM Sales;
 -- Applying the changes to the orderdate
 UPDATE Sales
 SET orderdate = CONVERT(date, orderdate);
+
