@@ -2,9 +2,9 @@
 SELECT
 	orderdate,
 	CAST(orderdate AS date) AS DateOrder
-FROM Sales;
+FROM [Sales Sample Data]..Sales;
 
 -- Applying the changes to the orderdate
-UPDATE Sales
+UPDATE [Sales Sample Data]..Sales
 SET orderdate = CONVERT(date, orderdate);
 
