@@ -3,7 +3,7 @@ USE [Sales Sample Data];
 SELECT TOP(10)
 	*
 FROM Sales;
-
+ 
 
 -- Total Number of Orders 
 SELECT
