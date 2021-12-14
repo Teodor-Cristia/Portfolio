@@ -57,7 +57,7 @@ SELECT
 	FORMAT(SUM(sales), 'N2') AS 'Total Sales'
 FROM Sales
 GROUP BY Country
-ORDER BY SUM(sales) DESC;							--I used the aggregate function 'SUM(sales)' to sort the results because the output of the 'Total Sales' column is a nvarchar / string format
+ORDER BY SUM(sales) DESC;	--I used the aggregate function 'SUM(sales)' to sort the results because the output of the 'Total Sales' column is a nvarchar / string format
 
 
 -- Sales by product
