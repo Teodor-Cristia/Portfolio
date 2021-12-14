@@ -90,17 +90,3 @@ ORDER BY Product,
 			WHEN status = 'Resolved' THEN 5
 			WHEN status = 'Cancelled' THEN 6
 		 END;
-
-
--- save a query with procedure
-DROP PROCEDURE IF EXISTS sales_over_time;
-CREATE PROCEDURE sales_over_time
-AS
-	SELECT
-		YEAR(orderdate) AS YearOrder,
-		DATENAME(month, orderdate) AS MonthOrder,
-		Sales
-	FROM Sales
-GO;
-
-EXEC sales_over_time;
