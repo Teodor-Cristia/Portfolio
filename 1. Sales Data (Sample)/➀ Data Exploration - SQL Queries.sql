@@ -11,7 +11,7 @@ SELECT
 FROM Sales;
 
 
--- We got here the number of orders by year and month, sorted ascending by date.
+-- Let's get the number of orders by year and month, sorted by date.
 SELECT
 	FORMAT(CONVERT(date, YearMonth + '-01'), 'yyyy-MMM') AS 'Year & Month name',
 	COUNT(*) AS 'Number of Orders'
@@ -24,8 +24,8 @@ GROUP BY YearMonth
 ORDER BY YearMonth;
 
 
--- ordernumber and productline by Sales. I'm interested to see the salary where i have 4 products (different products) per each ordernumber.
--- Show the 1st and 3rd salary (sorted from largger to smaller), ordernumber and product name for each unique ordernumber.
+-- ordernumber and productline by Sales. I'm interested to see the salary where i have 4 products (unique products) per each ordernumber.
+-- Show only the 1st and 3rd salary (sorted from largger to smaller), ordernumber and product name for each unique ordernumber.
 SELECT
 	ordernumber,
 	productline,
