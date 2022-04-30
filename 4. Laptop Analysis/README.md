@@ -1,6 +1,6 @@
 This project includes:
   - Data Exploration
-  - Data Clkeaning
+  - Data Cleaning
   - Data Visualization
 
 
