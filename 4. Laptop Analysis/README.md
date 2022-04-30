@@ -1,10 +1,11 @@
-This project includes:
+The project includes:
   - Data Exploration
   - Data Cleaning
+  - Data Transformation
   - Data Visualization
 
 
-The main mission is answering questions, such as:
+The main mission is to understand and answer the following questions: 
 
   - What company has the most variety of laptops?
   - What is the average price of a laptop by the company?
