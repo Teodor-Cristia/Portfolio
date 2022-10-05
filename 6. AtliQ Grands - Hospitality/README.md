@@ -32,9 +32,7 @@ Link: [**Challenge**](https://codebasics.io/event/codebasics-resume-project-chal
 ---
 
 
-
-
-
+[![Now in Android: 55](https://user-images.githubusercontent.com/94936000/194167029-1f419f49-4efd-46dc-bb2a-5f3d6f7494fe.jpg)](https://streamable.com/f1388t)
 
 
 
