@@ -22,10 +22,15 @@ Link: [**Challenge**](https://codebasics.io/event/codebasics-resume-project-chal
 > You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. You can download all relevant documents from the download section.
 
 > 1. **Create the metrics according to the metric list.**
+<details><summary>Click to see the Metric List Screenshot</summary><img src="https://user-images.githubusercontent.com/94936000/194045129-43ed0131-84c9-4194-a033-8575c8730284.jpg"></details>
+
 > 2. **Create a dashboard according to the mock-up provided by stakeholders.**
+<details><summary>Click to see the Mock-Up Screenshot</summary><img src="https://user-images.githubusercontent.com/94936000/194044408-c36d6923-54e7-4cc4-9f60-0b1d61b85e2f.png"></details>
+
 > 3. **Create relevant insights that are not provided in the metric list/mock-up dashboard.**
 
 ---
+
 
 
 
