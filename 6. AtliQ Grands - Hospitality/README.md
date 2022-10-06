@@ -1,4 +1,4 @@
-# **Challenge: Business Insights AlitQ Grands**
+# **Challenge: Business Insights AtliQ Grands**
 
 #### Resume Challenge Project #1 ➛ codebasics.io / Resume Projects
 #### September 2022
