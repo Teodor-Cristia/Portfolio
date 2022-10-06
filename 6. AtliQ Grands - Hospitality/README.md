@@ -70,10 +70,10 @@ What I learned?:
 * Creating the optimum Data Model.
 * Designing a nice-looking dashboard.
 
-What I can improve?:
+What should I improve? (propably):
 * My Documentation.
-* The DAX queries to improve performance.
-* Grouping the visuals on a page based on Sales / Trends / Performances etc.
+* The DAX queries (for performance).
+* Grouping the visuals on a page based on the category Sales / Trends / Performances etc.
 
 
 Insights from the Dashboard:
