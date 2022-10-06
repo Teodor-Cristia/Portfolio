@@ -1,6 +1,7 @@
 # **Challenge: Business Insights AlitQ Grands**
 
-#### This is September Challenge:  Challenge #1 ➛ codebasics.io / Resume Projects
+#### Resume Challenge Project #1 ➛ codebasics.io / Resume Projects
+#### September 2022
 
 Link: [**Challenge**](https://codebasics.io/event/codebasics-resume-project-challenge)
 
