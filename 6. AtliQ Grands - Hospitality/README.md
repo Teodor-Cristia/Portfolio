@@ -71,7 +71,7 @@ What I learned?:
 
 What I can improve?:
 * My Documentation.
-* The DAX Formulas to improve performance.
+* The DAX queries to improve performance.
 * Grouping the visuals on a page based on Sales / Trends / Performances etc.
 
 
