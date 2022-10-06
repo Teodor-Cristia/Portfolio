@@ -35,8 +35,29 @@ BI Tool: Power BI
 
 [YouTube Video with the Project](https://youtu.be/quoByfzgwkk)
 
-[![YouTube Video with the Project](https://user-images.githubusercontent.com/94936000/194167029-1f419f49-4efd-46dc-bb2a-5f3d6f7494fe.jpg)](https://youtu.be/quoByfzgwkk)
+
+---
+#### Some Screenshots with the Project:
+
+### Home Page ⬎
+![bandicam 2022-10-05 16-14-36-827](https://user-images.githubusercontent.com/94936000/194299826-78089c26-0e50-44b1-992b-5c210d0b8b58.jpg)
+
+### Page View I ⬎
+![bandicam 2022-10-05 16-14-31-885](https://user-images.githubusercontent.com/94936000/194296660-c561c0d3-3982-420c-b86d-77531dd00180.jpg)
+
+### Page View II ⬎
+![bandicam 2022-10-05 16-14-26-510](https://user-images.githubusercontent.com/94936000/194296949-794ad5d7-cd29-49a4-ac6f-6fa5545d4f30.jpg)
+
+### Page View III ⬎
+![bandicam 2022-10-05 16-14-19-304](https://user-images.githubusercontent.com/94936000/194296959-f70b2e1b-a8cc-46b0-96b7-24892b82a40c.jpg)
 
 
+### Data Model ⬎
+![bandicam 2022-10-05 16-01-04-712](https://user-images.githubusercontent.com/94936000/194297019-444833fd-600c-4dd9-ae0c-05e4cad9e14c.jpg)
 
+### Established Relationships ⬎
+![bandicam 2022-10-05 16-01-19-949](https://user-images.githubusercontent.com/94936000/194297020-d4f51358-5dd6-42e6-ba1d-5f601e5095e3.jpg)
+
+### Tables ⬎
+![bandicam 2022-10-05 16-02-25-747](https://user-images.githubusercontent.com/94936000/194297026-3667d285-325d-4821-8ee4-46d0bad18ad6.jpg)
 
