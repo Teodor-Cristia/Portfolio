@@ -37,7 +37,7 @@ BI Tool: Power BI
 
 
 ---
-#### Some Screenshots with the Project:
+#### Screenshots:
 
 ### Home Page ⬎
 ![bandicam 2022-10-05 16-14-36-827](https://user-images.githubusercontent.com/94936000/194299826-78089c26-0e50-44b1-992b-5c210d0b8b58.jpg)
@@ -61,3 +61,25 @@ BI Tool: Power BI
 ### Tables ⬎
 ![bandicam 2022-10-05 16-02-25-747](https://user-images.githubusercontent.com/94936000/194297026-3667d285-325d-4821-8ee4-46d0bad18ad6.jpg)
 
+---
+
+What I learned?:
+* Doing more checking/validation after creating a measure/visual.
+* Selecting the visual that is easy to understand for the end-user.
+* Creating the optimum Data Model.
+* Designing a nice-looking dashboard.
+
+What I can improve?:
+* My Documentation.
+* The DAX Formulas to improve performance.
+* Grouping the visuals on a page based on Sales / Trends / Performances etc.
+
+
+Insights from the Dashboard:
+* Based on all 3 months the Total Revenue is 1.71 Billion with 57.87% Total Occupancy and an Average Rating of 3.6.
+* Mumbai City has the highest Revenue with a total of 668.6 Million.
+* Atliq Exotica Hotel generates the most Revenue in Mumbai City.
+* Delhi City has the lowest Revenue (294.5 Million).
+* Atliq Grands generates the lowest Revenue in Delhi City.
+* Delhi City Occupayed the most (60.55%).
+* Room class Elite has the most Occupancy.
