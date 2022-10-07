@@ -1,9 +1,7 @@
 # **Challenge: Business Insights AtliQ Grands**
 
-#### Resume Challenge Project #1 ➛ codebasics.io / Resume Projects
+#### Resume Challenge Project #1 ➛ [codebasics.io / Resume Projects](https://codebasics.io/event/codebasics-resume-project-challenge)
 #### September 2022
-
-Link: [**Challenge**](https://codebasics.io/event/codebasics-resume-project-challenge)
 
 ---
 
