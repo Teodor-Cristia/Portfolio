@@ -73,7 +73,7 @@ What I learned?:
 What should I improve? (propably):
 * My Documentation.
 * The DAX queries (for performance).
-* Grouping the visuals on a page based on the category Sales / Trends / Performances etc.
+* Grouping the visuals on a page based on the category Sales / Trends etc.
 
 
 Insights from the Dashboard:
@@ -82,5 +82,5 @@ Insights from the Dashboard:
 * Atliq Exotica Hotel generates the most Revenue in Mumbai City.
 * Delhi City has the lowest Revenue (294.5 Million).
 * Atliq Grands generates the lowest Revenue in Delhi City.
-* Delhi City Occupayed the most (60.55%).
+* Delhi City has the highest Occupancy 60.55%.
 * Room class Elite has the most Occupancy.
