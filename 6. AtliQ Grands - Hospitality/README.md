@@ -83,4 +83,4 @@ Insights from the Dashboard:
 * Delhi City has the lowest Revenue (294.5 Million).
 * Atliq Grands generates the lowest Revenue in Delhi City.
 * Delhi City has the highest Occupancy 60.55%.
-* Room class Elite has the most Occupancy.
+* Room class Elite has the most Bookings.
