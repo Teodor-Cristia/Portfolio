@@ -1,4 +1,4 @@
-# **Challenge: Business Insights AtliQ Grands**
+# **Challenge: Atliq Mark Supply Chain**
 
 #### Resume Challenge Project #2 ➛ [codebasics.io / Resume Projects](https://codebasics.io/event/codebasics-resume-project-challenge)
 #### October 2022
