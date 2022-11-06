@@ -30,28 +30,30 @@
 
 BI Tool: Power BI
 
+[YouTube Video with the Project](https://youtu.be/UWELSwaGPLw)
+
 
 ---
 
 #### Screenshots:
 
 ### Home Page ⬎
-![1r](https://user-images.githubusercontent.com/94936000/200148433-7355d8a0-ae24-44b0-9a25-6f517943db6c.jpg)
+![0r](https://user-images.githubusercontent.com/94936000/200185248-6e73f122-fd46-4d01-a144-2e269addbd55.jpg)
 
 ### Delivery View ⬎
-![2r](https://user-images.githubusercontent.com/94936000/200148434-1e552b6f-2f66-4772-99f4-c64bcc1dc64e.jpg)
+![1r](https://user-images.githubusercontent.com/94936000/200185250-05336332-2845-4497-b874-1f27568b15a5.jpg)
 
 ### Over Time View ⬎
-![3r](https://user-images.githubusercontent.com/94936000/200148435-5866a7b0-7fa6-4500-91c5-0130dc8e6917.jpg)
+![2r](https://user-images.githubusercontent.com/94936000/200185251-9dc0e0c2-ab4f-4169-8ad0-097afb73c7ad.jpg)
 
 ### Customer View ⬎
-![4r](https://user-images.githubusercontent.com/94936000/200148436-c2c6703b-a420-4e85-8ac5-40605751e758.jpg)
+![3r](https://user-images.githubusercontent.com/94936000/200185252-f9d447d0-96a4-4e12-ac91-78a196aa63ca.jpg)
 
 ### Product View ⬎
-![5r](https://user-images.githubusercontent.com/94936000/200148437-4ea061e5-6b9d-4a54-9463-972ab0d1fe4f.jpg)
+![4r](https://user-images.githubusercontent.com/94936000/200185253-0d11bd1e-7a18-4b6e-8423-54e265c91465.jpg)
 
 ### Insights View ⬎
-![6r](https://user-images.githubusercontent.com/94936000/200148438-d79fed46-a9cf-4e29-9adb-e961166aeca8.jpg)
+![5r](https://user-images.githubusercontent.com/94936000/200185254-45d112d5-1702-414b-90c7-17ab2be42246.jpg)
 
 ### Data Model View ⬎
 ![7](https://user-images.githubusercontent.com/94936000/200146654-04c23518-8844-4efa-91b4-4752a6e9f649.jpg)
@@ -65,8 +67,10 @@ BI Tool: Power BI
 ---
 
 
-
-
+What I learned?:
+* Created a few tables dynamically.
+* Created a way to visualize faster the actual situation of the business based on the history selection such as last day / last week etc.
+* Got a better understanding of Percentage difference and Percentage Change.
 
 
 
