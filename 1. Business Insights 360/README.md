@@ -66,6 +66,9 @@ the Final Problem statement:
 
 ![24 - v2](https://user-images.githubusercontent.com/94936000/202321181-faa0bcc4-0bf6-4353-bbed-98838355d8f3.jpg)
 
+
+---
+
 ### ✦ Certificate of Completion ⬎
 <details><summary><b>Click</b> to see it:</summary><img src="https://user-images.githubusercontent.com/94936000/202324962-06bc91dc-9aa9-4dde-8fc3-59f6943aebd4.jpg"></details>
 
