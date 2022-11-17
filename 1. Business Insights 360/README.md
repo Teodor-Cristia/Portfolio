@@ -1,5 +1,8 @@
 # **Bussiness Insights 360**
 
+The course is available on: [codebasics.io -> Get Job Ready: Power BI Data Analytics for All Levels](https://codebasics.io/#ourcourses)
+
+
 ---
 
 #### Screenshots:
