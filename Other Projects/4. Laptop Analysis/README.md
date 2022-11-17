@@ -1,3 +1,6 @@
+Project Finished: April 2022
+
+
 The project includes:
   - Data Exploration
   - Data Cleaning
