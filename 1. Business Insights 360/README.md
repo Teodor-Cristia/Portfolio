@@ -20,7 +20,9 @@
 ![10](https://user-images.githubusercontent.com/94936000/202318203-3c2bec2a-6744-41a5-a66c-0c76543a7cea.jpg)
 
 ### ✦ Sales View II ⬎
-(the final/extra exercise)
+the Final Problem statement:
+![](https://user-images.githubusercontent.com/94936000/202322363-115a3155-4aed-47e7-a7a1-f48eee50a714.jpg)
+
 ![11](https://user-images.githubusercontent.com/94936000/202318204-690167bd-20c6-4e34-9919-15718db17937.jpg)
 
 ![12](https://user-images.githubusercontent.com/94936000/202318206-b91a7813-6016-4d92-afb5-e8f5e80c9a0b.jpg)
