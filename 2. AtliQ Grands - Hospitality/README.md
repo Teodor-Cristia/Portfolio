@@ -83,3 +83,8 @@ Insights from the Dashboard:
 * Delhi City has the highest Occupancy 60.55%.
 * Room class Elite has the most Bookings.
 
+---
+
+### Certificate of Appreciation⬎
+<details><summary><b>Click to see it</b>:</summary><img src="https://user-images.githubusercontent.com/94936000/202325742-e8613408-1b29-4e5c-8510-5bfc2abaf362.jpg"></details>
+
