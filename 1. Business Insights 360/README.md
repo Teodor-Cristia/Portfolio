@@ -51,20 +51,22 @@ the Final Problem statement:
 ![19](https://user-images.githubusercontent.com/94936000/202318220-bfd992b2-3a6c-40c1-a868-19d9894be5c2.jpg)
 
 ### ✦ Tables & Measures ⬎
-![20](https://user-images.githubusercontent.com/94936000/202318222-c0312bbf-70f8-4daf-953d-3f46ec09093b.jpg)
-
-![21](https://user-images.githubusercontent.com/94936000/202318223-ca0a7fb6-0c86-41e7-a038-e16d8373a15a.jpg)
+![20](https://user-images.githubusercontent.com/94936000/202318222-c0312bbf-70f8-4daf-953d-3f46ec09093b.jpg) ![21](https://user-images.githubusercontent.com/94936000/202318223-ca0a7fb6-0c86-41e7-a038-e16d8373a15a.jpg)
 
 ### ✦ Data View ⬎
 ![22](https://user-images.githubusercontent.com/94936000/202318225-e938763e-5ee5-4fdf-8f69-32143db837df.jpg)
 
 ![25](https://user-images.githubusercontent.com/94936000/202318231-5f4644e1-a21a-4722-a584-69abf29b73f5.jpg)
 
-
 ### ✦ Data Model ⬎
 ![23](https://user-images.githubusercontent.com/94936000/202318227-059217f3-3851-4ced-a21d-a3fe49363552.jpg)
 
 ![24 - v2](https://user-images.githubusercontent.com/94936000/202321181-faa0bcc4-0bf6-4353-bbed-98838355d8f3.jpg)
+
+### ✦ Established Relationships ⬎
+![26](https://user-images.githubusercontent.com/94936000/202329163-8f65f187-12dd-45f7-877d-f45d18c11e78.jpg)
+
+![27](https://user-images.githubusercontent.com/94936000/202329165-8af93401-e203-4e18-90d6-cfc6ce2f1231.jpg)
 
 
 ---
