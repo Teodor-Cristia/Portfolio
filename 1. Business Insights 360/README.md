@@ -23,7 +23,7 @@ Summer 2022
 ***Supply Chain View***: Reliability, Forecast Accuracy in a view to undersand Supply Chain Performance  
 ***Executive View***: Integrated view of key insights for executives  
 
-✒ and then a few updates came based on Stakeholders' needs!
+✒  and then a few requirements came based on Stakeholders' needs!
 
 ### **What I learned?**:
 
