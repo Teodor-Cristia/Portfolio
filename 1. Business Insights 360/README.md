@@ -14,13 +14,18 @@ Summer 2022
 > Senior executives of this company have decided to invest in a data analytics project and have assigned a team for this work.
 
 
+
 ### **Tasks** 
 
-**Finance View**: Show Profit and Loss Statement to understand financial performance across Markets, Products, Customers etc  
-**Sales View**: Show Top/Bottom Customers along with Key Metrics. A matrix would be preferable to understand their performance  
-**Marketing View**: Same as Sales View but for Products  
-**Supply Chain View**: Reliability, Forecast Accuracy in a view to undersand Supply Chain Performance  
-**Executive View**: Integrated view of key insights for executives  
+> **Finance View**: Show Profit and Loss Statement to understand financial performance across Markets, Products, Customers etc  
+> 
+> **Sales View**: Show Top/Bottom Customers along with Key Metrics. A matrix would be preferable to understand their performance  
+> 
+> **Marketing View**: Same as Sales View but for Products  
+> 
+> **Supply Chain View**: Reliability, Forecast Accuracy in a view to undersand Supply Chain Performance  
+> 
+> **Executive View**: Integrated view of key insights for executives  
 
 ---
 
