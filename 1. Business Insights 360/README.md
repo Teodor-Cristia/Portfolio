@@ -1,6 +1,6 @@
 # **Bussiness Insights 360**
 
-Get Job Ready: Power BI Data Analytics for All Levels ➛ [codebasics.io / Courses](https://codebasics.io/#ourcourses)
+Get Job Ready: Power BI Data Analytics for All Levels ➛ [codebasics.io / Courses](https://codebasics.io/#ourcourses)  
 Summer 2022
 
 
