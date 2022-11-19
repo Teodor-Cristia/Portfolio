@@ -17,15 +17,23 @@ Summer 2022
 
 ### **Tasks** 
 
-> **Finance View**: Show Profit and Loss Statement to understand financial performance across Markets, Products, Customers etc  
-> 
-> **Sales View**: Show Top/Bottom Customers along with Key Metrics. A matrix would be preferable to understand their performance  
-> 
-> **Marketing View**: Same as Sales View but for Products  
-> 
-> **Supply Chain View**: Reliability, Forecast Accuracy in a view to undersand Supply Chain Performance  
-> 
-> **Executive View**: Integrated view of key insights for executives  
+***Finance View***: Show Profit and Loss Statement to understand financial performance across Markets, Products, Customers etc  
+***Sales View***: Show Top/Bottom Customers along with Key Metrics. A matrix would be preferable to understand their performance  
+***Marketing View***: Same as Sales View but for Products  
+***Supply Chain View***: Reliability, Forecast Accuracy in a view to undersand Supply Chain Performance  
+***Executive View***: Integrated view of key insights for executives  
+
+
+### **What I learned?**:
+
+➥ Power BI Essentials (DAX, Power Query, Data Modeling & Visualization)  
+➥ Dashboarding designing techniques  
+➥ End-to-end Power BI project process (Scoping to Deployment)  
+➥ Effective Communication techniques to Business Stakeholders  
+➥ Advanced Power BI tricks  
+➥ Business Function Fundamentals (Finance, Sales, Marketing & Supply chain)  
+➥ Consumer goods business domain knowledge  
+➥ Problem solving mindset  
 
 ---
 
