@@ -28,7 +28,10 @@
 
 ---
 
-BI Tool: Power BI
+BI Tool: Power BI  
+Database: Excel  
+
+Live Dashboard: [Atliq-Mark-Supply-Chain](https://www.novypro.com/project/atliq-mark-supply-chain-by-teodor-cristia)
 
 [YouTube Video with the Project](https://youtu.be/UWELSwaGPLw)
 
