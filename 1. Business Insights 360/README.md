@@ -41,6 +41,9 @@ Senior executives of this company have decided to invest in a data analytics pro
 ---
 
 BI Tool: Power BI
+DataBase: MySQL
+
+Live Dashboard: [Business-Insights-360](https://www.novypro.com/project/business-insights-360-by-teodor-cristia)
 
 [YouTube Video with the Project](https://www.youtube.com/watch?v=a0sHR1Ehux4)
 
