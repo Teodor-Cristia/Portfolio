@@ -33,7 +33,7 @@
 BI Tool: Power BI  
 Database: Excel  
 
-Live Dashboard: https://lnkd.in/eSSERuqV
+Live Dashboard: [AtliQ-Grands-Hospitality](https://www.novypro.com/project/atliq-grands-hospitality-by-teodor-cristia)
 
 [YouTube Video with the Project](https://youtu.be/quoByfzgwkk)
 
