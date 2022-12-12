@@ -30,7 +30,10 @@
 
 ---
 
-BI Tool: Power BI
+BI Tool: Power BI  
+Database: Excel  
+
+Live Dashboard: https://lnkd.in/eSSERuqV
 
 [YouTube Video with the Project](https://youtu.be/quoByfzgwkk)
 
