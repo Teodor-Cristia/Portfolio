@@ -33,13 +33,5 @@ Live Dashboard:  [AtliQo-Telecom](https://www.novypro.com/project/atliqo-telecom
 
 ---
 
-What I learned?:
-* Page navigator buttons.
-* 
-* Created a way to visualize faster the actual situation of the business based on the history selection such as last day / last week etc.
-* Got a better understanding of Percentage difference and Percentage Change.
-
----
-
 
 
