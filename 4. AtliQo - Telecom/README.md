@@ -34,7 +34,8 @@ Live Dashboard:
 ---
 
 What I learned?:
-* Created a few tables dynamically.
+* Page navigator buttons.
+* 
 * Created a way to visualize faster the actual situation of the business based on the history selection such as last day / last week etc.
 * Got a better understanding of Percentage difference and Percentage Change.
 
