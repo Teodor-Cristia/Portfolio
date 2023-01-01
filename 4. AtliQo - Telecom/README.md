@@ -33,5 +33,15 @@ Live Dashboard:  [AtliQo-Telecom](https://www.novypro.com/project/atliqo-telecom
 
 ---
 
+**Insights**:
 
+* The change in **Revenue** is down by **0.5%**.
+* There is a **23.50%** increase in **Unsubscribing Users** after the implementation of **5G**.
+* After the implementation of **5G**, there are a few Cities with a **negative change in Revenue**:
+  - **Delhi -2.83%**
+  - **Chenai -2.59%**
+  - **Ahmedabad -2.02%**
+  - **Hyderabad -1.29%**
+ 
+* Jaipur, Pune, and Lucknow are the Top 3 Cities with Highest Unsubscribe from Users.
 
