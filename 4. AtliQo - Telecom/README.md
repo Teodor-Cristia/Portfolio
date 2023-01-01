@@ -43,5 +43,5 @@ Live Dashboard:  [AtliQo-Telecom](https://www.novypro.com/project/atliqo-telecom
   - **Ahmedabad -2.02%**
   - **Hyderabad -1.29%**
  
-* Jaipur, Pune, and Lucknow are the Top 3 Cities with Highest Unsubscribe from Users.
+* **Jaipur**, **Pune**, and **Lucknow** are the Top 3 Cities with **Highest Unsubscribe from Users**.
 
