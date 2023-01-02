@@ -59,7 +59,7 @@ Live Dashboard (updated):  [AtliQo-Telecom-Updated](https://www.novypro.com/proj
 ✒ **Lucknow**, **Pune**, and **Jaipur** are the Top 3 Cities with the **Highest** numbers of **Unsubscribed Users**.
 
 
-✒ **June**, the first month after implementation of 5G is losing market compared with Last Month April (the month May doesn't exist due to the 5G implementation) with a change of -0.7%. July and August are increasing the market share with **0.4%** and respectively **0.7%**. But September isn't good at all; it's decreasing with **-2.0%** reported to the month of **August**.
+✒ **June**, the first month after implementation of 5G is losing market compared with Last Month April (the month of May doesn't exist due to the 5G implementation) with a change of -0.7%. July and August are increasing the market share by **0.4%** and respectively **0.7%**. But September isn't good at all; it's down by **-2.0%** compared to **August**.
 
 
 ✒ The best 5 **Plans** by **Revenue** are: **p1**, **p2**, **p3**, **p4** and **p11**.
