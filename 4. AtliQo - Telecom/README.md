@@ -32,8 +32,6 @@ Live Dashboard:  [AtliQo-Telecom](https://www.novypro.com/project/atliqo-telecom
 
 Live Dashboard (updated):  [AtliQo-Telecom-Updated](https://www.novypro.com/project/atliqo-telecom--by-teodor-cristia)  
   
-
-
 ---
 
 **Insights**:
@@ -63,4 +61,17 @@ Live Dashboard (updated):  [AtliQo-Telecom-Updated](https://www.novypro.com/proj
 
 
 ✒ The best 5 **Plans** by **Revenue** are: **p1**, **p2**, **p3**, **p4** and **p11**.
+
+---
+
+#### Screenshots:
+
+![bandicam 2023-01-07 12-19-06-050](https://user-images.githubusercontent.com/94936000/211145696-e0d71124-8e55-4a0d-94ab-9d5cb60b09a6.jpg)
+![bandicam 2023-01-07 12-19-24-482](https://user-images.githubusercontent.com/94936000/211145698-5623e783-d9bf-4e2d-b717-38550c6db8d5.jpg)
+![bandicam 2023-01-07 12-19-59-715](https://user-images.githubusercontent.com/94936000/211145705-4302cf10-6fc7-43ab-b3a9-c1be03bf887e.jpg)
+![bandicam 2023-01-07 12-20-04-183](https://user-images.githubusercontent.com/94936000/211145708-10cbe170-7fd9-4cb5-8c1b-bd843134518a.jpg)
+![bandicam 2023-01-07 12-20-08-947](https://user-images.githubusercontent.com/94936000/211145709-4d0f9583-d36d-4085-a85c-9458050242f2.jpg)
+![bandicam 2023-01-07 12-20-17-541](https://user-images.githubusercontent.com/94936000/211145714-d33085ab-0c98-4c92-a749-fc285f736c19.jpg)
+![bandicam 2023-01-07 12-21-59-459](https://user-images.githubusercontent.com/94936000/211145736-52d5a5ef-0848-4189-a09d-a80c122529c6.jpg)
+![bandicam 2023-01-07 12-22-50-077](https://user-images.githubusercontent.com/94936000/211145742-6204ff3e-181b-4f2f-9d4e-1efc9febf146.jpg)
 
