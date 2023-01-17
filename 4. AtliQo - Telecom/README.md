@@ -28,9 +28,7 @@
 BI Tool: Power BI  
 Database: Excel  
 
-Live Dashboard:  [AtliQo-Telecom](https://www.novypro.com/project/atliqo-telecom-by-teodor-cristia)
-
-Live Dashboard (updated):  [AtliQo-Telecom-Updated](https://www.novypro.com/project/atliqo-telecom--by-teodor-cristia)  
+Live Dashboard:  [AtliQo-Telecom](https://www.novypro.com/project/atliqo-telecom--by-teodor-cristia)  
   
 ---
 
