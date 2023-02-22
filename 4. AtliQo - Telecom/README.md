@@ -1,4 +1,4 @@
-# **Challenge**: Provide Insights to Executive Team in Telecom Domain  
+## **Challenge**: Provide Insights to Executive Team in Telecom Domain  
 
 #### Resume Challenge Project #3 ➛ [codebasics.io / Resume Projects](https://codebasics.io/event/codebasics-resume-project-challenge)
 #### November 2022
