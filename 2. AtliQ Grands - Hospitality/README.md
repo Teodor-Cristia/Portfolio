@@ -1,11 +1,9 @@
-# **Challenge: Business Insights AtliQ Grands**
+## **Challenge**: Provide Insights to Revenue Team in Hospitality Domain
 
 #### Resume Challenge Project #1 ➛ [codebasics.io / Resume Projects](https://codebasics.io/event/codebasics-resume-project-challenge)
 #### September 2022
 
 ---
-
-**Challenge**: Provide Insights to Revenue Team in Hospitality Domain
 
 **Domain**:  Hospitality
 
