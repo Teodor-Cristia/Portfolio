@@ -71,3 +71,9 @@ Live Dashboard:  [AtliQo-Telecom](https://www.novypro.com/project/atliqo-telecom
 ![bandicam 2023-01-07 12-21-59-459](https://user-images.githubusercontent.com/94936000/211145736-52d5a5ef-0848-4189-a09d-a80c122529c6.jpg)
 ![bandicam 2023-01-07 12-22-50-077](https://user-images.githubusercontent.com/94936000/211145742-6204ff3e-181b-4f2f-9d4e-1efc9febf146.jpg)
 
+
+---
+
+### Certificate of Appreciation ⬎
+<details><summary><b>Click</b> to see it:</summary><img src="https://user-images.githubusercontent.com/94936000/220667244-5b825572-d8c6-4c20-9fe0-4f0d6d7fd0e7.jpg"></details>
+
