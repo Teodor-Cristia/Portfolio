@@ -1,11 +1,9 @@
-# **Challenge: Atliq Mark Supply Chain**
+## **Challenge**: Generate Insights to Solve a Supply Chain Issue in FMCG Domain
 
 #### Resume Challenge Project #2 ➛ [codebasics.io / Resume Projects](https://codebasics.io/event/codebasics-resume-project-challenge)
 #### October 2022
 
 ---
-
-**Challenge #2**: Generate Insights to Solve a Supply Chain Issue in FMCG Domain
 
 **Problem Statement**
 > AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodra. They want to expand to other metro/tier1 cities in the next 2 years.
