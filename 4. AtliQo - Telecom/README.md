@@ -1,11 +1,9 @@
-# **Challenge: AtliQo Telecom**
+# **Challenge**: Provide Insights to Executive Team in Telecom Domain  
 
 #### Resume Challenge Project #3 ➛ [codebasics.io / Resume Projects](https://codebasics.io/event/codebasics-resume-project-challenge)
 #### November 2022
 
 ---
-
-**Challenge #3**: Provide Insights to Executive Team in Telecom Domain  
   
 **Problem Statement**  
 > AtliQo is one of the leading telecom providers in India and launched it’s 5G plans in May 2022 along with other telecom providers.
