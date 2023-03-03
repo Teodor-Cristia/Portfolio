@@ -6,7 +6,8 @@
 ---
 
 **Domain**:  Consumer Goods | **Function**: Executive Management
-
+  
+  
 **Problem Statement**:
 
 > ✦ Atliq Hardware is a leading computer hardware producer in India that requires quick and informed decisions based on data insights.  
