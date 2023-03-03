@@ -1,6 +1,6 @@
 ## **Challenge**: Generate Insights to Solve a Supply Chain Issue in FMCG Domain
 
-#### Resume Challenge Project #2 ➛ [codebasics.io / Resume Projects](https://codebasics.io/event/codebasics-resume-project-challenge)
+#### Resume Challenge Project #2 ➛ [codebasics.io / Resume Projects](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 #### October 2022
 
 ---
