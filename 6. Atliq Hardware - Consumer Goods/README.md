@@ -40,6 +40,11 @@ Learnings:
 
 ---  
 
+Insights:
+- all the insights are in the slides positioned fourth and third from the end
+
+----
+
 #### Note: 
 - full presentation as it is in the PDF file
 - for better quality download the PDF file
