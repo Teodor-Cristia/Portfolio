@@ -26,13 +26,13 @@
 
 ---
 
-Tools used in this project:
+Tools used:
 
 - I have a special slide in the PDF file (before the last slide) to show the tools used in this project
 
 ---
 
-Learnings?:
+Learnings:
 
 - Improving my SQL skills each time I was working on this project, thinking on different ways to optimize the queries.
 
