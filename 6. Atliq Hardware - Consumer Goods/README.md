@@ -34,7 +34,7 @@ Tools used:
 
 Learnings:
 
-- Improving my SQL skills each time I was working on this project, thinking on different ways to optimize the queries.
+- I improved my SQL skills most of the time while working on this project, thinking of different ways to optimize the queries.
 
 - Learned a lot about PowerPoint; that is my first time creating a presentation in PowerPoint.
 
