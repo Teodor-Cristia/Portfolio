@@ -26,7 +26,12 @@
 
 ---
 
-#### Presentation (full presentation as it is in the PDF file):
+
+#### Note: 
+- full presentation as it is in the PDF file
+- for better quality download the PDF file
+
+#### Presentation:
 
 ![bandicam 2023-03-03 17-34-56-536](https://user-images.githubusercontent.com/94936000/222761987-54cac72d-0eff-4a64-9672-3b2c167042a0.jpg)
 ![bandicam 2023-03-03 17-34-58-734](https://user-images.githubusercontent.com/94936000/222761993-359cedfa-9d6b-41fb-be5d-1d4c5ae72e1d.jpg)
