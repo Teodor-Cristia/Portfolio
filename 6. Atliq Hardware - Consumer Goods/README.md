@@ -26,6 +26,19 @@
 
 ---
 
+Tools used in this project:
+
+- I have a special slide in the PDF file (before the last slide) to show the tools used in this project
+
+---
+
+Learnings?:
+
+- Improving my SQL skills each time I was working on this project, thinking on different ways to optimize the queries.
+
+- Learned a lot about PowerPoint; that is my first time creating a presentation in PowerPoint.
+
+---  
 
 #### Note: 
 - full presentation as it is in the PDF file
