@@ -35,6 +35,10 @@ Live Dashboard: [AtliQ-Grands-Hospitality](https://www.novypro.com/project/atliq
 
 [YouTube Video with the Project](https://youtu.be/quoByfzgwkk)
 
+---
+
+### Certificate of Appreciation
+<details><summary><b>Click</b> to see it:</summary><img src="https://user-images.githubusercontent.com/94936000/202325742-e8613408-1b29-4e5c-8510-5bfc2abaf362.jpg"></details>
 
 ---
 #### Screenshots:
@@ -83,9 +87,3 @@ Insights from the Dashboard:
 * Atliq Grands generates the lowest Revenue in Delhi City.
 * Delhi City has the highest Occupancy 60.55%.
 * Room class Elite has the most Bookings.
-
----
-
-### Certificate of Appreciation ⬎
-<details><summary><b>Click</b> to see it:</summary><img src="https://user-images.githubusercontent.com/94936000/202325742-e8613408-1b29-4e5c-8510-5bfc2abaf362.jpg"></details>
-
