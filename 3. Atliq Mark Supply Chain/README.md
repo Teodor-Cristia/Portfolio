@@ -33,6 +33,10 @@ Live Dashboard: [Atliq-Mark-Supply-Chain](https://www.novypro.com/project/atliq-
 
 [YouTube Video with the Project](https://youtu.be/UWELSwaGPLw)
 
+---
+
+### Certificate of Appreciation
+<details><summary><b>Click</b> to see it:</summary><img src="https://user-images.githubusercontent.com/94936000/202327321-158b57b6-855f-479c-9eda-7e017121f247.jpg"></details>
 
 ---
 
@@ -72,11 +76,3 @@ What I learned?:
 * Created a few tables dynamically.
 * Created a way to visualize faster the actual situation of the business based on the history selection such as last day / last week etc.
 * Got a better understanding of Percentage difference and Percentage Change.
-
----
-
-### Certificate of Appreciation ⬎
-<details><summary><b>Click</b> to see it:</summary><img src="https://user-images.githubusercontent.com/94936000/202327321-158b57b6-855f-479c-9eda-7e017121f247.jpg"></details>
-
-
-
