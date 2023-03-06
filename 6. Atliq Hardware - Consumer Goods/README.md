@@ -49,6 +49,14 @@ Insights:
 - full presentation as it is in the PDF file
 - for better quality download the PDF file
 
+---
+
+### Certificate of Appreciation
+<details><summary><b>Click</b> to see it:</summary><img src="https://user-images.githubusercontent.com/94936000/223107612-35e96d6d-9707-46ae-99c3-d067cd194b63.jpg"></details>
+
+---
+
+
 #### Presentation:
 
 ![bandicam 2023-03-03 17-34-56-536](https://user-images.githubusercontent.com/94936000/222761987-54cac72d-0eff-4a64-9672-3b2c167042a0.jpg)
