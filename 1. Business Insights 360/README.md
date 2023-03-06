@@ -50,6 +50,10 @@ Live Dashboard: [Business-Insights-360](https://www.novypro.com/project/business
 
 ---
 
+### ✦ Certificate of Completion
+<details><summary><b>Click</b> to see it:</summary><img src="https://user-images.githubusercontent.com/94936000/202324962-06bc91dc-9aa9-4dde-8fc3-59f6943aebd4.jpg"></details>
+
+---
 
 #### Screenshots:
 
@@ -112,12 +116,3 @@ Live Dashboard: [Business-Insights-360](https://www.novypro.com/project/business
 ![26](https://user-images.githubusercontent.com/94936000/202329163-8f65f187-12dd-45f7-877d-f45d18c11e78.jpg)
 
 ![27](https://user-images.githubusercontent.com/94936000/202329165-8af93401-e203-4e18-90d6-cfc6ce2f1231.jpg)
-
-
----
-
-### ✦ Certificate of Completion ⬎
-<details><summary><b>Click</b> to see it:</summary><img src="https://user-images.githubusercontent.com/94936000/202324962-06bc91dc-9aa9-4dde-8fc3-59f6943aebd4.jpg"></details>
-
-
-
