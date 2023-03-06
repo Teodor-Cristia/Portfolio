@@ -60,6 +60,11 @@ Live Dashboard:  [AtliQo-Telecom](https://www.novypro.com/project/atliqo-telecom
 
 ---
 
+### Certificate of Appreciation ⬎
+<details><summary><b>Click</b> to see it:</summary><img src="https://user-images.githubusercontent.com/94936000/220667244-5b825572-d8c6-4c20-9fe0-4f0d6d7fd0e7.jpg"></details>
+
+---
+
 #### Screenshots:
 
 ![bandicam 2023-01-07 12-19-06-050](https://user-images.githubusercontent.com/94936000/211145696-e0d71124-8e55-4a0d-94ab-9d5cb60b09a6.jpg)
@@ -73,7 +78,4 @@ Live Dashboard:  [AtliQo-Telecom](https://www.novypro.com/project/atliqo-telecom
 
 
 ---
-
-### Certificate of Appreciation ⬎
-<details><summary><b>Click</b> to see it:</summary><img src="https://user-images.githubusercontent.com/94936000/220667244-5b825572-d8c6-4c20-9fe0-4f0d6d7fd0e7.jpg"></details>
 
