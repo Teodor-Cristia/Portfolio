@@ -60,7 +60,7 @@ Live Dashboard:  [AtliQo-Telecom](https://www.novypro.com/project/atliqo-telecom
 
 ---
 
-### Certificate of Appreciation ⬎
+### Certificate of Appreciation
 <details><summary><b>Click</b> to see it:</summary><img src="https://user-images.githubusercontent.com/94936000/220667244-5b825572-d8c6-4c20-9fe0-4f0d6d7fd0e7.jpg"></details>
 
 ---
