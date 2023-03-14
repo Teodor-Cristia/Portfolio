@@ -5,7 +5,16 @@ Summer 2022
 
 
 --- 
-  
+
+➥ Completed end-to-end Power BI project for AtliQ Hardware during a comprehensive Data Analytics training course.  
+➥ Gained hands-on experience in using Power BI to develop finance, sales, marketing, supply chain, and executive views to provide insights into key business metrics.  
+➥ Developed skills in Power BI Essentials (DAX, Power Query, Data Modeling & Visualization) and dashboarding design techniques.  
+➥ Acquired advanced Power BI tricks to enhance data analysis and visualization.  
+➥ Gained business function fundamentals in finance, sales, marketing, and supply chain.  
+➥ Deepened knowledge in the consumer goods business domain.  
+➥ Demonstrated problem-solving mindset in developing solutions for data analytics challenges.  
+
+---
   
 ### **Problem Statement** 
 
@@ -24,19 +33,6 @@ Senior executives of this company have decided to invest in a data analytics pro
 ***Executive View***: Integrated view of key insights for executives  
 
 ✒  and then a few requirements came based on Stakeholders' needs!
-
----
-
-### **What I learned?**:
-
-➥ Power BI Essentials (DAX, Power Query, Data Modeling & Visualization)  
-➥ Dashboarding designing techniques  
-➥ End-to-end Power BI project process (Scoping to Deployment)  
-➥ Effective Communication techniques to Business Stakeholders  
-➥ Advanced Power BI tricks  
-➥ Business Function Fundamentals (Finance, Sales, Marketing & Supply chain)  
-➥ Consumer goods business domain knowledge  
-➥ Problem solving mindset  
 
 ---
 
