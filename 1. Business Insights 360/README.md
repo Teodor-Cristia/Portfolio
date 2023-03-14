@@ -6,6 +6,8 @@ Summer 2022
 
 --- 
 
+### **Key Learnings** 
+
 ➥ Completed end-to-end Power BI project for AtliQ Hardware during a comprehensive Data Analytics training course.  
 ➥ Gained hands-on experience in using Power BI to develop finance, sales, marketing, supply chain, and executive views to provide insights into key business metrics.  
 ➥ Developed skills in Power BI Essentials (DAX, Power Query, Data Modeling & Visualization) and dashboarding design techniques.  
@@ -28,7 +30,7 @@ Summer 2022
 ---
   
 
-### **Started with these Tasks**: 
+### **Started with these Tasks**
 
 ***Finance View***: Show Profit and Loss Statement to understand financial performance across Markets, Products, Customers etc  
 ***Sales View***: Show Top/Bottom Customers along with Key Metrics. A matrix would be preferable to understand their performance  
