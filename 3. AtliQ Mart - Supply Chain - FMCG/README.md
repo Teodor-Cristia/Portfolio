@@ -34,16 +34,16 @@
 
 ---
 
-BI Tool: Power BI  
-Database: Excel  
+**BI Tool**: Power BI  
+**Database**: Excel  
 
-Live Dashboard: [Atliq-Mark-Supply-Chain](https://www.novypro.com/project/atliq-mark-supply-chain-by-teodor-cristia)
+**Live Dashboard**: [Atliq-Mark-Supply-Chain](https://www.novypro.com/project/atliq-mark-supply-chain-by-teodor-cristia)
 
 [YouTube Video with the Project](https://youtu.be/UWELSwaGPLw)
 
 ---
 
-What I learned?:
+**What I learned?**:
 * Created a few tables dynamically.
 * Created a way to visualize faster the actual situation of the business based on the history selection such as last day / last week etc.
 * Got a better understanding of Percentage difference and Percentage Change.
