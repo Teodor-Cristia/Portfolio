@@ -5,7 +5,7 @@
 
 ---
 
-**Domain**:  Consumer Goods  |  **Function**:  Executive Management
+**Domain**:  CG (Consumer Goods)  |  **Function**:  Executive Management
   
   
 **Problem Statement**:
