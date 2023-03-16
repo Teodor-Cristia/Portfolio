@@ -83,6 +83,3 @@ What I learned?:
 
 ### Tables ⬎
 ![9](https://user-images.githubusercontent.com/94936000/200146657-e7062af9-4131-4ac8-8c13-76a0732849ac.jpg)
-
----
-
