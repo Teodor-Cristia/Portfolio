@@ -5,7 +5,7 @@
 
 ---
 
-**Domain**:  Hospitality | **Function**: Revenue
+**Domain**:  Hospitality  |  **Function**:  Revenue
 
 **Problem Statement**:
 
