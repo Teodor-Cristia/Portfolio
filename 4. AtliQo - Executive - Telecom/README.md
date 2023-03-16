@@ -5,7 +5,7 @@
 
 ---
  
-**Domain**:  Telecom  |  **Function**:  Executive
+**Domain**:  Telecom  |  **Function**:  Executive Management
 
 **Problem Statement**:
 
