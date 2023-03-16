@@ -4,7 +4,7 @@
 #### September 2022
 
 ---
-
+ 
 **Domain**:  Hospitality  |  **Function**:  Revenue
 
 **Problem Statement**:
