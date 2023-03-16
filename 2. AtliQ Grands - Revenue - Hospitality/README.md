@@ -34,6 +34,29 @@ Live Dashboard: [AtliQ-Grands-Hospitality](https://www.novypro.com/project/atliq
 
 ---
 
+What I learned?:
+* Doing more checking/validation after creating a measure/visual.
+* Selecting the visual that is easy to understand for the end-user.
+* Creating the optimum Data Model.
+* Designing a nice-looking dashboard.
+
+What should I improve? (propably):
+* My Documentation.
+* The DAX queries (for performance).
+* Grouping the visuals on a page based on the category Sales / Trends etc.
+
+
+Insights from the Dashboard:
+* Based on all 3 months the Total Revenue is 1.71 Billion with 57.87% Total Occupancy and an Average Rating of 3.6.
+* Mumbai City has the highest Revenue with a total of 668.6 Million.
+* Atliq Exotica Hotel generates the most Revenue in Mumbai City.
+* Delhi City has the lowest Revenue (294.5 Million).
+* Atliq Grands generates the lowest Revenue in Delhi City.
+* Delhi City has the highest Occupancy 60.55%.
+* Room class Elite has the most Bookings.
+
+---
+
 ### Certificate of Appreciation
 <details><summary><b>Click</b> to see it:</summary><img src="https://user-images.githubusercontent.com/94936000/202325742-e8613408-1b29-4e5c-8510-5bfc2abaf362.jpg"></details>
 
@@ -61,26 +84,3 @@ Live Dashboard: [AtliQ-Grands-Hospitality](https://www.novypro.com/project/atliq
 
 ### Tables ⬎
 ![bandicam 2022-10-05 16-02-25-747](https://user-images.githubusercontent.com/94936000/194297026-3667d285-325d-4821-8ee4-46d0bad18ad6.jpg)
-
----
-
-What I learned?:
-* Doing more checking/validation after creating a measure/visual.
-* Selecting the visual that is easy to understand for the end-user.
-* Creating the optimum Data Model.
-* Designing a nice-looking dashboard.
-
-What should I improve? (propably):
-* My Documentation.
-* The DAX queries (for performance).
-* Grouping the visuals on a page based on the category Sales / Trends etc.
-
-
-Insights from the Dashboard:
-* Based on all 3 months the Total Revenue is 1.71 Billion with 57.87% Total Occupancy and an Average Rating of 3.6.
-* Mumbai City has the highest Revenue with a total of 668.6 Million.
-* Atliq Exotica Hotel generates the most Revenue in Mumbai City.
-* Delhi City has the lowest Revenue (294.5 Million).
-* Atliq Grands generates the lowest Revenue in Delhi City.
-* Delhi City has the highest Occupancy 60.55%.
-* Room class Elite has the most Bookings.
