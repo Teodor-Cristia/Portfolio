@@ -20,32 +20,32 @@ Summer 2022
   
 ### **Problem Statement** 
 
-•	AtliQ Hardware is a consumer goods electronics company with operations in various countries.  
-•	The company is growing rapidly but still relies on Excel files for data analytics, which are difficult to consume and not effective in generating insights.  
-•	Due to the lack of effective analytics, the company faced a major loss in Latin America.  
-•	Senior executives have decided to invest in a data analytics project to improve the company's analytics capabilities.  
-•	A team has been assigned for this work.  
-•	The problem statement is to develop a data analytics solution that can effectively generate insights for AtliQ Hardware and prevent future losses.  
+✦ AtliQ Hardware is a consumer goods electronics company with operations in various countries.  
+✦ The company is growing rapidly but still relies on Excel files for data analytics, which are difficult to consume and not effective in generating insights.  
+✦ Due to the lack of effective analytics, the company faced a major loss in Latin America.  
+✦ Senior executives have decided to invest in a data analytics project to improve the company's analytics capabilities.  
+✦ A team has been assigned for this work.  
+✦ The problem statement is to develop a data analytics solution that can effectively generate insights for AtliQ Hardware and prevent future losses.  
 
 ---
   
 
 ### **Started with these Tasks**
 
-***Finance View***: Show Profit and Loss Statement to understand financial performance across Markets, Products, Customers etc  
-***Sales View***: Show Top/Bottom Customers along with Key Metrics. A matrix would be preferable to understand their performance  
-***Marketing View***: Same as Sales View but for Products  
-***Supply Chain View***: Reliability, Forecast Accuracy in a view to undersand Supply Chain Performance  
-***Executive View***: Integrated view of key insights for executives  
+•	***Finance View***: Show Profit and Loss Statement to understand financial performance across Markets, Products, Customers etc  
+•	***Sales View***: Show Top/Bottom Customers along with Key Metrics. A matrix would be preferable to understand their performance  
+•	***Marketing View***: Same as Sales View but for Products  
+•	***Supply Chain View***: Reliability, Forecast Accuracy in a view to undersand Supply Chain Performance  
+•	***Executive View***: Integrated view of key insights for executives  
 
 ✒  and then a few requirements came based on Stakeholders' needs!
 
 ---
 
-BI Tool: Power BI  
-Database: MySQL
+**BI Tool**: Power BI  
+**Database**: MySQL
 
-Live Dashboard: [Business-Insights-360](https://www.novypro.com/project/business-insights-360-by-teodor-cristia)
+**Live Dashboard**: [Business-Insights-360](https://www.novypro.com/project/business-insights-360-by-teodor-cristia)
 
 [YouTube Video with the Project](https://www.youtube.com/watch?v=a0sHR1Ehux4)
 
