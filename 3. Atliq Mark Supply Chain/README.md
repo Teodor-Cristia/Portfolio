@@ -13,7 +13,7 @@
 
 > The Supply Chain team decided to use a standard approach to measure the service level in which they will measure ‘on-time delivery (OT) %’, ‘In-full delivery (IF) %’ and OnTime in full (OTIF) % of the customer orders on a daily basis against the target service level set for each customer.
 
-**Task**:  
+**Task**
 > Peter Pandey is the data analyst in the supply chain team who joined Atliq Mart recently. He has been briefed about the the task in the stakeholder business review meeting. Now Imagine yourself as Peter Pandey and play the role of the new data analyst who is excited to build this dashboard and perform the following task
 
 > 1. **Create the metrics according to the metrics list.**
