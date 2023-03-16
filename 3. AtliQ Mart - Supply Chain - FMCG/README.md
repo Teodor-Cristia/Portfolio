@@ -4,6 +4,7 @@
 #### October 2022
 
 ---
+
 **Domain**:  FMCG (Fast Moving Consumer Goods)  |  **Function**:  Supply Chain
 
 **Problem Statement**:
