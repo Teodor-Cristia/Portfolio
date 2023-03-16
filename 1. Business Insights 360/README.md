@@ -32,11 +32,11 @@ Summer 2022
 
 ### **Started with these Tasks**
 
-•	***Finance View***: Show Profit and Loss Statement to understand financial performance across Markets, Products, Customers etc  
-•	***Sales View***: Show Top/Bottom Customers along with Key Metrics. A matrix would be preferable to understand their performance  
-•	***Marketing View***: Same as Sales View but for Products  
-•	***Supply Chain View***: Reliability, Forecast Accuracy in a view to undersand Supply Chain Performance  
-•	***Executive View***: Integrated view of key insights for executives  
+✦ ***Finance View***: Show Profit and Loss Statement to understand financial performance across Markets, Products, Customers etc  
+✦ ***Sales View***: Show Top/Bottom Customers along with Key Metrics. A matrix would be preferable to understand their performance  
+✦ ***Marketing View***: Same as Sales View but for Products  
+✦ ***Supply Chain View***: Reliability, Forecast Accuracy in a view to undersand Supply Chain Performance  
+✦ ***Executive View***: Integrated view of key insights for executives  
 
 ✒  and then a few requirements came based on Stakeholders' needs!
 
