@@ -9,10 +9,9 @@
 
 **Problem Statement**:
 
-✦ AtliQ Grands, a hospitality company with multiple five-star hotels across India, is losing market share and revenue in the luxury/business hotels category.  
-✦ The managing director wants to incorporate "Business and Data Intelligence" to regain their market share and revenue.  
-✦ AtliQ Grands does not have an in-house data analytics team to provide insights.  
-✦ The revenue management team has decided to hire a third-party service provider to provide insights from their historical data.  
+> ✦ AtliQ Grands, a hospitality company with multiple five-star hotels across India, is losing market share and revenue in the luxury/business hotels category.  
+> ✦ The managing director wants to incorporate "Business and Data Intelligence" to regain their market share and revenue.  
+> ✦ AtliQ Grands does not have an in-house data analytics team to provide insights.  
 
 **Task**:
 
