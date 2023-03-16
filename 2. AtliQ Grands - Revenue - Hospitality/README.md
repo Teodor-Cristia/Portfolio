@@ -25,28 +25,28 @@
 
 ---
 
-BI Tool: Power BI  
-Database: Excel  
+**BI Tool**: Power BI  
+**Database**: Excel  
 
-Live Dashboard: [AtliQ-Grands-Hospitality](https://www.novypro.com/project/atliq-grands-hospitality-by-teodor-cristia)
+**Live Dashboard**: [AtliQ-Grands-Hospitality](https://www.novypro.com/project/atliq-grands-hospitality-by-teodor-cristia)
 
 [YouTube Video with the Project](https://youtu.be/quoByfzgwkk)
 
 ---
 
-What I learned?:
+**What I learned?**:
 * Doing more checking/validation after creating a measure/visual.
 * Selecting the visual that is easy to understand for the end-user.
 * Creating the optimum Data Model.
 * Designing a nice-looking dashboard.
 
-What should I improve? (propably):
+**What should I improve? (propably)**:
 * My Documentation.
 * The DAX queries (for performance).
 * Grouping the visuals on a page based on the category Sales / Trends etc.
 
 
-Insights from the Dashboard:
+**Insights from the Dashboard**:
 * Based on all 3 months the Total Revenue is 1.71 Billion with 57.87% Total Occupancy and an Average Rating of 3.6.
 * Mumbai City has the highest Revenue with a total of 668.6 Million.
 * Atliq Exotica Hotel generates the most Revenue in Mumbai City.
