@@ -4,7 +4,7 @@
 #### November 2022
 
 ---
-
+ 
 **Domain**:  Telecom  |  **Function**:  Executive
 
 **Problem Statement**:
