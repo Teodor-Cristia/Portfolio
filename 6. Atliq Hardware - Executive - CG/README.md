@@ -30,7 +30,7 @@
 
 ![bandicam 2023-03-03 17-36-09-645](https://user-images.githubusercontent.com/94936000/222762112-e968f3f7-7fcb-4243-a2c2-fd998277224f.jpg)
 
-Note: I have this special slide in the PDF file (before the last slide) to show the tools used in this project.
+Note: I have this special slide in the PDF file (before the last slide) to show these tools used in my project.
 
 ---  
 
