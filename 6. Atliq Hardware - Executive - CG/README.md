@@ -32,14 +32,6 @@
 
 Note: I have this special slide in the PDF file (before the last slide) to show the tools used in this project.
 
----
-
-**Learnings**:
-
-- I improved my SQL skills most of the time while working on this project, thinking of different ways to optimize the queries.
-
-- Learned a lot about PowerPoint; that is my first time creating a presentation in PowerPoint.
-
 ---  
 
 **Insights**: 
@@ -48,6 +40,14 @@ Note: I have this special slide in the PDF file (before the last slide) to show 
 ![bandicam 2023-03-04 13-28-33-944](https://user-images.githubusercontent.com/94936000/222897416-89ddde2e-ae01-4d36-8f62-226f49460c6b.jpg)
 
 Note: All the insights are also in the slides positioned fourth and third from the end.
+
+---
+
+**Learnings**:
+
+- I improved my SQL skills most of the time while working on this project, thinking of different ways to optimize the queries.
+
+- Learned a lot about PowerPoint; that is my first time creating a presentation in PowerPoint.
 
 ----
 
