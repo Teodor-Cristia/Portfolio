@@ -41,7 +41,7 @@
 **Insights**:
 
 
-✒ The change in **Revenue** is down by **0.5%**.
+✒ The change in **Revenue** before vs after the implementation is down by **0.5%**.
 
 
 ✒ **Average Revenue Per User** (**ARPU**) is increasing by **11.05%**.
