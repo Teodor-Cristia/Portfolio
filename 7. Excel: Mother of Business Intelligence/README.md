@@ -1,3 +1,17 @@
+# **Excel - Business Intelligence**
+
+Excel: Mother of Business Intelligence ➛ [codebasics.io / Courses](https://codebasics.io/courses/excel-mother-of-business-intelligence)  
+May 2023
+
+
+---
+
+### ✦ Certificate of Completion
+<details><summary><b>Click</b> to see it:</summary><img src="https://github.com/Teodor-Cristia/Portfolio/assets/94936000/7351a723-4837-4763-897b-5a8aa081ed43"></details>
+
+---
+
+
 
 ![bandicam 2023-07-11 20-04-57-500](https://github.com/Teodor-Cristia/Portfolio/assets/94936000/39163ff9-bb3a-4723-8f23-d19c71c5a8ed)
 ![bandicam 2023-07-11 20-05-05-195](https://github.com/Teodor-Cristia/Portfolio/assets/94936000/95a38b0a-a23c-496d-96df-5e0ee8acfedd)
